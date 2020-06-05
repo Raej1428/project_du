@@ -16,7 +16,7 @@
     "sequelize-cli": "^5.5.1"
   },
   "engines": {
-    "node": "^0.8.x",
-    "npm": "^6.x"
+    "node": "latest",
+    "npm": "latest"
   }
 }
